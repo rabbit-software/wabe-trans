@@ -23,4 +23,10 @@ For support requests, please visit:
 **GitHub Issues**
 [Create a New Issue]
 
+### For support requests, please visit:
+
+**GitHub Issues**
+[Create a New Issue](https://github.com/rabbit-software/wabe-trans/issues/new)
+
+
 Thank you for helping us improve our service.
