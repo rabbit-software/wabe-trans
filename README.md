@@ -12,7 +12,7 @@ This is the fastest way to get help. You do not need to log in to submit your re
 
 ### 2. Email Support
 If you prefer to contact us via email, please send your inquiry to:
-**[support@wabe-corp.com](mailto:wabesoft@wabesoft.com)** 
+**[wabesoft@wabesoft.com](mailto:wabesoft@wabesoft.com)** 
 *(Please replace with your actual support email address)*
 
 ---
