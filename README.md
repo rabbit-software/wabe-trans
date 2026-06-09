@@ -19,8 +19,13 @@ When creating an issue, please include the following information whenever possib
 
 Our team will review submitted issues and respond as soon as possible.
 
-### For support requests, please visit:
+# Wabe-Trans Support
 
-**[▶ Create a New Issue](https://github.com/rabbit-software/wabe-trans/issues/new)**
+Thank you for using our application.
+If you have any questions or encounter issues, please use the form below to contact us.
 
-Thank you for helping us improve our service.
+**[▶ Click here to submit a support request]([Link](https://docs.google.com/forms/d/e/1FAIpQLScjFrxrYE_A0FNIrfxFhaUzPljqaIBSxb6yZmPj2BgBGX9_3Q/viewform?usp=dialog))**
+
+---
+### Alternative Support
+If you prefer to track issues via GitHub, you can also visit our [GitHub Issues page](https://github.com/rabbit-software/wabe-trans/issues).
